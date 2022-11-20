@@ -1,1 +1,1 @@
-web:  gunicorn fomalinux.wsgi --log-file -
+web:  gunicorn testing.wsgi --log-file -
